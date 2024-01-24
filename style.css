@@ -1,9 +1,14 @@
 body {
     margin: 10px;
     padding: 10px;
+    color: white
 }
 
 * {
     box-sizing: border-box;
     font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
 }
