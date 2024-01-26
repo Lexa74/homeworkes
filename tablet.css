@@ -1,3 +1,7 @@
 .sec {
-  max-width: 700px;
+  max-width: 600px;
+}
+
+div {
+    height: 300px;
 }
